@@ -1,2 +1,2 @@
-# ola mundo
- primeiro repositorio git
+# ola, mundo !
+ nao desista, tenha fé !
